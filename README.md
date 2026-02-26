@@ -1,5 +1,3 @@
-Here is a professional **README.md** file you can use for your GitHub repository:
-
 ---
 
 # ✈️ US Airline Flight Route & Fares Analysis
